@@ -1,0 +1,8 @@
+/home/tadgh/smile/hapi-fhir/hapi-fhir-jaxrsserver-example/src/main/java/ca/uhn/fhir/jaxrs/server/example/JaxRsConformanceProviderDstu3.java
+/home/tadgh/smile/hapi-fhir/hapi-fhir-jaxrsserver-example/src/main/java/ca/uhn/fhir/jaxrs/server/example/FhirPatientDemoApplication.java
+/home/tadgh/smile/hapi-fhir/hapi-fhir-jaxrsserver-example/src/main/java/ca/uhn/fhir/jaxrs/server/example/JaxRsPatientRestProviderR4.java
+/home/tadgh/smile/hapi-fhir/hapi-fhir-jaxrsserver-example/src/main/java/ca/uhn/fhir/jaxrs/server/example/JaxRsConformanceProvider.java
+/home/tadgh/smile/hapi-fhir/hapi-fhir-jaxrsserver-example/src/main/java/ca/uhn/fhir/jaxrs/server/example/JaxRsPageProvider.java
+/home/tadgh/smile/hapi-fhir/hapi-fhir-jaxrsserver-example/src/main/java/ca/uhn/fhir/jaxrs/server/example/JaxRsPatientRestProvider.java
+/home/tadgh/smile/hapi-fhir/hapi-fhir-jaxrsserver-example/src/main/java/ca/uhn/fhir/jaxrs/server/example/JaxRsPatientRestProviderDstu3.java
+/home/tadgh/smile/hapi-fhir/hapi-fhir-jaxrsserver-example/src/main/java/ca/uhn/fhir/jaxrs/server/example/JaxRsPageProviderDstu3.java
