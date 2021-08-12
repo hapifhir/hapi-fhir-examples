@@ -9,7 +9,6 @@
 		<groupId>ca.uhn.hapi.fhir</groupId>
 		<artifactId>hapi-fhir</artifactId>
 		<version>5.6.0-PRE1-SNAPSHOT</version>
-
 	</parent>
 	
 	<artifactId>restful-server-example</artifactId>
@@ -33,35 +32,35 @@
 		<dependency>
 			<groupId>ca.uhn.hapi.fhir</groupId>
 			<artifactId>hapi-fhir-base</artifactId>
-			<version>${project.version}</version>
+			<version>${parent.version}</version>
 		</dependency>
 		
 		<!-- Include the HAPI server framework -->
 		<dependency>
 			<groupId>ca.uhn.hapi.fhir</groupId>
 			<artifactId>hapi-fhir-server</artifactId>
-			<version>${project.version}</version>
+			<version>${parent.version}</version>
 		</dependency>
 
 		<!-- At least one "structures" JAR must also be included -->
 		<dependency>
 			<groupId>ca.uhn.hapi.fhir</groupId>
 			<artifactId>hapi-fhir-structures-dstu2</artifactId>
-			<version>${project.version}</version>
+			<version>${parent.version}</version>
 		</dependency>
 
 		<!-- This dependency is used for the "FHIR Tester" web app overlay -->
 		<dependency>
 			<groupId>ca.uhn.hapi.fhir</groupId>
 			<artifactId>hapi-fhir-testpage-overlay</artifactId>
-			<version>${project.version}</version>
+			<version>${parent.version}</version>
 			<type>war</type>
 			<scope>provided</scope>		
 		</dependency>
 		<dependency>
 			<groupId>ca.uhn.hapi.fhir</groupId>
 			<artifactId>hapi-fhir-testpage-overlay</artifactId>
-			<version>${project.version}</version>
+			<version>${parent.version}</version>
 			<classifier>classes</classifier>
 			<scope>provided</scope>		
 		</dependency>
