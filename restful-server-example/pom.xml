@@ -9,7 +9,7 @@
 		<groupId>ca.uhn.hapi.fhir</groupId>
 		<artifactId>hapi-fhir</artifactId>
 		<version>5.6.0-PRE1-SNAPSHOT</version>
-		<relativePath>../pom.xml</relativePath>
+
 	</parent>
 	
 	<artifactId>restful-server-example</artifactId>
