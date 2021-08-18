@@ -1,0 +1,8 @@
+ca/uhn/fhir/jaxrs/server/example/JaxRsPageProvider.class
+ca/uhn/fhir/jaxrs/server/example/FhirPatientDemoApplication.class
+ca/uhn/fhir/jaxrs/server/example/JaxRsPageProviderDstu3.class
+ca/uhn/fhir/jaxrs/server/example/JaxRsConformanceProvider.class
+ca/uhn/fhir/jaxrs/server/example/JaxRsPatientRestProviderR4.class
+ca/uhn/fhir/jaxrs/server/example/JaxRsPatientRestProviderDstu3.class
+ca/uhn/fhir/jaxrs/server/example/JaxRsConformanceProviderDstu3.class
+ca/uhn/fhir/jaxrs/server/example/JaxRsPatientRestProvider.class
